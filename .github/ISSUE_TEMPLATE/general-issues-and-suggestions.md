@@ -16,4 +16,5 @@ Please report the following issues on this Github Issue Tracker:
 - For Mod Issues check first official Mod Githubs if it has already been reported and if not report it there!
 
 **Do NOT Report here:**
--Server problems or crashes. Use our helpdesk (tech-support) in our Discord Server to get some help with serverside issues. Discord Link: https://discord.gg/eUajYmK
+-Server problems, crashes or technical issues of any kind. Use our helpdesk (tech-support-channels) in our Discord Server to get help in any of these matters.
+Discord Link: https://discord.gg/eUajYmK
